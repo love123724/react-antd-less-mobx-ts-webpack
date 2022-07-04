@@ -1,0 +1,41 @@
+{
+    "status": 0,
+    "data": {
+        "total": 50,
+        "rows": [
+            {
+                "id": 1,
+                "createTime": "2018-11-11",
+                "userName": "admin",
+                "age": "20",
+                "address": "杭州余杭区",
+                "rate": 4
+            },
+            {
+                "id": 2,
+                "createTime": "2018-11-11",
+                "userName": "Admin2",
+                "age": "25",
+                "address": "杭州余杭区",
+                "rate": 5
+            },
+            {
+                "id": 3,
+                "createTime": "2018-11-11",
+                "userName": "Admin3",
+                "age": "30",
+                "address": "杭州余杭区",
+                "rate": 4
+            },
+            {
+                "id": 4,
+                "createTime": "2018-11-11",
+                "userName": "Admin4",
+                "age": "40",
+                "address": "杭州余杭区",
+                "rate": 4
+            }
+        ],
+        "maxCount": 0
+    }
+}
